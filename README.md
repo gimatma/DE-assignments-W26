@@ -8,4 +8,4 @@ Assignment 1
   (Euler's method): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gimatma/DE-assignments-W26/HEAD?urlpath=%2Fdoc%2Ftree%2FEluer.ipynb) 
 
 Assignment 2 (SOLDE w. Constant coefficients)
-  
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gimatma/DE-assignments-W26/HEAD?urlpath=%2Fdoc%2Ftree%2FLinear+Second+Order+DE.ipynb)
