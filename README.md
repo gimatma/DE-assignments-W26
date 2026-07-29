@@ -27,4 +27,4 @@ The Jupyter Notebooks are configured to run in a web browser through *MyBinder*,
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gimatma/DE-assignments-W26/HEAD?urlpath=%2Fdoc%2Ftree%2FLinear+Second+Order+DE.ipynb) Symbolic solver for second order equation
 
 ## Acknowledgements 
-A sincere thanks to Fraser Turner (Mount Allison University) who generously shared his original assignment. His materials served as the starting point from which the current exercises were adapted.
+A sincere thanks to Fraser Turner (Mount Allison University) who generously shared his original assignments. His materials served as the starting point from which the current exercises were adapted.
